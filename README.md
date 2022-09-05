@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0015966  |  Emily Dias Sousa      |
 | 18/0052616  |  Estevão de Jesus Reis |
 
 ## Sobre 
@@ -31,9 +31,29 @@ Nessa entrega nós resolvemos exercícios envolvendo programação dinâmica
 
 ![](./imgs/LongSub-result.png)
 
+### Triangle
+#### Descrição
+
+![](./imgs/triangle-description.png)
+
+#### Resultado
+
+![](./imgs/triangle-result.png)
+
+### Different Ways to Add Parentheses
+#### Descrição
+
+![](./imgs/diffWays-description.png)
+
+#### Resultado
+
+![](./imgs/diffWays-result.png)
+
+
 ## Instalação 
 **Linguagem**: Python<br>
 Acesse o site `leetcode.com`
+
 ## Uso 
 Para submeter os exercicios é preciso acessar os seguintes links:
 
@@ -41,4 +61,8 @@ Para submeter os exercicios é preciso acessar os seguintes links:
 
    * Maximum Profit in Job Scheduling: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
-## Outros
+   * Triangle: https://leetcode.com/problems/triangle/
+
+   * Different Ways to Add Parentheses: https://leetcode.com/problems/different-ways-to-add-parentheses/
+
+## Vídeo
