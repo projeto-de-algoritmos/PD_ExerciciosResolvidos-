@@ -66,3 +66,4 @@ Para submeter os exercicios é preciso acessar os seguintes links:
    * Different Ways to Add Parentheses: https://leetcode.com/problems/different-ways-to-add-parentheses/
 
 ## Vídeo
+https://youtu.be/aP7X9jMkaoA
